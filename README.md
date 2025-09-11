@@ -27,6 +27,19 @@ pip install pyTelegramBotAPI requests
 # 🕸 Configuration
 Open `token.txt` use `echo command` and put your bot's token in that file. Get token from [bot father](https://t.me/botfather)
 > Example token: **1234567890:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa**
+
+
+
+# 🤔 Next 
+open `chat_id.txt` use `echo command` and past you Channle name 
+> Example username: ** @CyberAmarjit
++ **No Use Channle link 🤐**:
+
+  
+> Example command :
+> 
+>  echo "@CyberAmarjit " > chat_id.txt
+
 + **Lanuch the bot**:
     After configuring the token, simply run `reaction_bot` to launch your bot:
   
