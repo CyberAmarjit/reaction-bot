@@ -26,3 +26,7 @@ pip install pyTelegramBotAPI requests
 ```bash
 python reaction_bot
 ```
+
+[ ▶️ My YouTube channel](https://www.youtube.com/@CyberAmarjit)
+
+[☎️ My Telegram channel](https://t.me/Cyberamarjit09)
