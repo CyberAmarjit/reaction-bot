@@ -24,6 +24,13 @@ pkg install python -y
 pip install pyTelegramBotAPI requests
 ```
 
+# 🕸 Configuration
+Open `/token.txt` and put your bot's token in that file. Get token from [bot father](https://t.me/botfather)
+> Example token: **1234567890:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa**
++ **Lanuch the bot**:
+    After configuring the token, simply run `reaction_bot` to launch your bot:
+  
+
 ⚙️ 𝙎𝙩𝙚𝙥-𝟓 : Run the Script
 ```bash
 python reaction_bot
